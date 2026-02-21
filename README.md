@@ -24,7 +24,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="55%">
       <p>I am a 3rd-year BTech CSE student passionate about bridging the gap between <b>Robust Backends</b> and <b>Intelligent Machine Learning models</b>.</p>
       <ul>
         <li>🔭 <b>Current Focus:</b> Designing microservices with Spring Boot and AWS.</li>
@@ -33,8 +33,8 @@
         <li>🎯 <b>Goal for 2026:</b> Contribute to high-impact Open Source projects.</li>
       </ul>
     </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=nirmitprasad&show_icons=true&theme=calmer&hide_border=true&bg_color=0D1117&title_color=2ecc71&icon_color=f1c40f&text_color=FFFFFF" alt="GitHub Stats" />
+    <td width="45%">
+      <img src="https://github-readme-stats.vercel.app/api?username=nirmitprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ecc71&icon_color=f1c40f&text_color=FFFFFF" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@
 
 | Top Languages | Contribution Heatmap |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmitprasad&layout=compact&theme=calmer&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=FFFFFF" width="350px"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=nirmitprasad&theme=calmer&hide_border=true&background=0D1117&stroke=2ecc71&ring=f1c40f&fire=f1c40f" width="400px"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmitprasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=FFFFFF" width="350px"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=nirmitprasad&theme=tokyonight&hide_border=true&background=0D1117&stroke=2ecc71&ring=f1c40f&fire=f1c40f" width="400px"/> |
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmitprasad&bg_color=0d1117&color=2ecc71&line=f1c40f&point=ffffff&area=true&hide_border=true" width="100%" />
 
