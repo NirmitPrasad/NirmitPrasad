@@ -1,218 +1,112 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Nirmit%20Prasad&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Full-Stack%20Developer%20%7C%20AI%20ML%20%7C%20DSA%20Enthusiast&descAlignY=52&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=NIRMIT%20PRASAD&fontSize=80&fontColor=2ecc71&animation=twinkling&desc=Full-Stack%20Architect%20|%20AI%20Specialist%20|%20Cloud%20Explorer&descAlignY=65&descSize=20"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+Scalable+Full-Stack+Solutions;Mastering+Data+Structures+%26+Algorithms;AI+%2B+Spring+Boot+Expert" alt="Typing SVG"/>
-
-<!-- Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Java-Full_Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Python-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/DSA-Problem_Solver-764ba2?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27"/>
-  <img src="https://komarev.com/ghpvc/?username=Avisav24&color=667eea&style=for-the-badge&label=VIEWS"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Stack-Java_%2F_Spring_Boot-2ecc71?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Research-AI_%2F_ML-f1c40f?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Location-New_Delhi-e74c3c?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
-<!-- Social Links -->
-<p>
-<a href="https://www.linkedin.com/in/nirmitprasad/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nirmitprasad@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/nirmitprasad/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F1C40F&center=true&vCenter=true&width=500&lines=System+Design+Enthusiast;Building+Next-Gen+APIs;Solving+Complex+Problems+at+Scale" alt="Typing SVG" />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nirmitprasad/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nirmitprasad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/nirmitprasad/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
 </div>
 
 ---
 
-## 💻 About Me
+## ⚡ Quick Bit About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```java
-class Developer {
-    String name = "Nirmit Prasad";
-    String role = "Java Full-Stack Developer";
-    String education = "BTech CSE | 3rd Year";
-
-    String[] coreSkills = {
-        "Java Backend Development",
-        "AI & ML",
-        "Spring Boot & Microservices",
-        "Data Structures & Algorithms",
-        "RESTful APIs & System Design"
-    };
-
-    String currentFocus = "Building production-ready full-stack applications";
-    String goal2025 = "Master Advanced DSA + Cloud Architecture";
-}
-```
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
-<br><span style="color:#FF4500;">Java</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48" height="48" />
-<br><span style="color:#32CD32;">Spring Boot</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" />
-<br><span style="color:#A52A2A;">Python</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48" />
-<br><span style="color:#4682B4;">Maven</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
-<br><span style="color:#FFD700;">AWS</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-<br><span style="color:#00BFFF;">React</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" />
-<br><span style="color:#FCD34D;">JavaScript</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" />
-<br><span style="color:#008B8B;">TypeScript</span>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
-<br><span style="color:#FF6347;">HTML5</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
-<br><span style="color:#1E90FF;">CSS3</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="48" height="48" />
-<br><span style="color:#483D8B;">Redux</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
-<br><span style="color:#20B2AA;">MySQL</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-<br><span style="color:#4169E1;">PostgreSQL</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-<br><span style="color:#32CD32;">MongoDB</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-<br><span style="color:#FF4500;">Git</span>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
-<br><span style="color:#FF4500;">Postman</span>
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>I am a 3rd-year BTech CSE student passionate about bridging the gap between <b>Robust Backends</b> and <b>Intelligent Machine Learning models</b>.</p>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Designing microservices with Spring Boot and AWS.</li>
+        <li>🌱 <b>Learning:</b> Advanced Distributed Systems and Cloud Architecture.</li>
+        <li>💬 <b>Ask me about:</b> Java, FastAPI, and why clean code matters.</li>
+        <li>🎯 <b>Goal for 2026:</b> Contribute to high-impact Open Source projects.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=nirmitprasad&show_icons=true&theme=calmer&hide_border=true&bg_color=0D1117&title_color=2ecc71&icon_color=f1c40f&text_color=FFFFFF" alt="GitHub Stats" />
+    </td>
+  </tr>
 </table>
-</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technological Arsenal
 
-<table>
-<tr>
-<td width="50%">
+### **Languages & Core**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Backend & Databases**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Frontend & Tools**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Engineering Projects
 
 ### 🗳️ WhatsApp-Flow-Generator
-**AI tool to convert UI images into WhatsApp Flow JSON**
-
-This project highlights the power of Generative AI integration in modern backend development, solving real-world developer friction with automation.
-
-**Tech:** Python • NLP • Machine Learning • Fast API
-
-<a href="https://github.com/NirmitPrasad/WhatsApp-Flow-Generator">
-<img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%">
+> **AI-Driven UI Automation**
+> - Converts static UI images into functional WhatsApp Flow JSON using NLP.
+> - **Tech:** Python, FastAPI, ML, NLP.
+> - [Explore Repository →](https://github.com/NirmitPrasad/WhatsApp-Flow-Generator)
 
 ### 📊 Bank-Simulator
-**Bank Simulator is a full-featured backend project that simulates real-world banking operations using Spring Boot, JPA/Hibernate, and RESTful APIs.**
-
-It provides secure, modular, and scalable backend services for managing accounts, transactions, and notifications — perfect for learning, testing, or integrating with a frontend banking dashboard.
-
-**Tech:** Java • SpringBoot • APIs • Maven
-
-<a href="https://github.com/NirmitPrasad/Bank-Simulator">
-<img src="https://img.shields.io/badge/View_Project-667eea?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
+> **Enterprise-Grade Backend Simulation**
+> - Features secure transaction handling, OTP services, and scalable microservices.
+> - **Tech:** Java, Spring Boot, JPA/Hibernate, Maven.
+> - [Explore Repository →](https://github.com/NirmitPrasad/Bank-Simulator)
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Activity & Insights
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirmitprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=FFFFFF&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nirmitprasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&langs_count=6" height="165"/>
+| Top Languages | Contribution Heatmap |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmitprasad&layout=compact&theme=calmer&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=FFFFFF" width="350px"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=nirmitprasad&theme=calmer&hide_border=true&background=0D1117&stroke=2ecc71&ring=f1c40f&fire=f1c40f" width="400px"/> |
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmitprasad&bg_color=0d1117&color=2ecc71&line=f1c40f&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<p align="center">
+  <b>Are you looking for a Java Backend Developer or AI/ML collaborator? Let's build something impactful!</b>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nirmitprasad&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=f093fb&fire=f093fb&currStreakLabel=ffffff&sideLabels=667EEA&dates=ffffff" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmitprasad&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-**💼 Open for Collaboration & Internships Opportunities**
-
-<p>
-<a href="https://www.linkedin.com/in/nirmitprasad">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nirmitprasad@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/nirmitprasad/">
-<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/nirmitprasad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:nirmitprasad@gmail.com"><img src="https://img.shields.io/badge/Email-Inquiry-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=nirmitprasad&color=2ecc71&style=flat-square&label=Profile+Visits" />
 </div>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=100&section=footer"/>
